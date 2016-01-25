@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "githubProfileInspector",
+    "style": "scss",
+    "postcss": false
+  }
+}
